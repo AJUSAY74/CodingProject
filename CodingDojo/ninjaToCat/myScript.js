@@ -1,0 +1,37 @@
+$(document).ready(function(){
+  $("#ninjas1").click(function(){
+    $("#ninjas1").css({opacity:"0.1"});
+});
+$("#ninjas2").click(function(){
+  $("#ninjas2").css({opacity:"0.1"});
+});
+$("#ninjas3").click(function(){
+  $("#ninjas3").css({opacity:"0.1"});
+});
+$("#ninjas4").click(function(){
+  $("#ninjas4").css({opacity:"0.1"});
+});
+$("#ninjas5").click(function(){
+  $("#ninjas5").css({opacity:"0.1"});
+});
+$("#showNinja").click(function(){
+  $("#ninjas1").slideDown("slow");
+  $("#ninjas1").css({opacity:"1.1"});
+});
+$("#showNinja").click(function(){
+  $("#ninjas2").slideDown("slow");
+  $("#ninjas2").css({opacity:"1.1"});
+});
+$("#showNinja").click(function(){
+  $("#ninjas3").slideDown("slow");
+  $("#ninjas3").css({opacity:"1.1"});
+});
+$("#showNinja").click(function(){
+  $("#ninjas4").slideDown("slow");
+  $("#ninjas4").css({opacity:"1.1"});
+});
+$("#showNinja").click(function(){
+  $("#ninjas5").slideDown("slow");
+  $("#ninjas5").css({opacity:"1.1"});
+});
+});

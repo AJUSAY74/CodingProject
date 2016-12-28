@@ -1,0 +1,50 @@
+$(document).ready(function(){
+  $("#ninja1").click(function(){
+    $("#ninja1").slideUp("slow");
+});
+$("#ninja2").click(function(){
+  $("#ninja2").slideUp("slow");
+});
+$("#ninja3").click(function(){
+  $("#ninja3").slideUp("slow");
+});
+$("#ninja4").click(function(){
+  $("#ninja4").slideUp("slow");
+});
+$("#ninja5").click(function(){
+  $("#ninja5").slideUp("slow");
+});
+$("#ninja6").click(function(){
+  $("#ninja6").slideUp("slow");
+});
+$("#ninja7").click(function(){
+  $("#ninja7").slideUp("slow");
+});
+$("#ninja8").click(function(){
+  $("#ninja8").slideUp("slow");
+});
+$("#showNinjas").click(function(){
+  $("#ninja1").slideDown("slow");
+});
+$("#showNinjas").click(function(){
+  $("#ninja2").slideDown("slow");
+});
+$("#showNinjas").click(function(){
+  $("#ninja3").slideDown("slow");
+});
+$("#showNinjas").click(function(){
+  $("#ninja4").slideDown("slow");
+});
+$("#showNinjas").click(function(){
+  $("#ninja5").slideDown("slow");
+});
+$("#showNinjas").click(function(){
+  $("#ninja6").slideDown("slow");
+});
+$("#showNinjas").click(function(){
+  $("#ninja7").slideDown("slow");
+});
+$("#showNinjas").click(function(){
+  $("#ninja8").slideDown("slow");
+});
+});

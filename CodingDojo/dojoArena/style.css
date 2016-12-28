@@ -1,0 +1,61 @@
+body{
+  width: 1000px;
+  height: 500px;
+  margin: auto;
+}
+#arenaHolder{
+  width: 1000px;
+  height: 500px;
+  background-color: black;
+  padding: 10px;
+  margin: 20px;
+  border: 8px solid gray;
+}
+#SelectArena{
+  color: #e59706;
+  text-shadow: 2px 2px white;
+  text-align: center;
+}
+#menuHolder{
+  background-color: rgba(33, 33, 33, 0.50);
+  width: 400px;
+  height: 200px;
+  margin-left: 300px;
+  margin-top: 80px;
+  border: 4px solid white;
+  border-radius: 20px;
+}
+#SelectArea1, #SelectArea2, #SelectArea3, #SelectArea4,
+#SelectArea5, #SelectArea6{
+  padding: 10px;
+  width: 80px;
+  margin-left: 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+  background-color: white;
+}
+#SelectPlayer{
+  display: none;
+  color: #e59706;
+  text-shadow: 2px 2px white;
+  text-align: center;
+}
+#PlayerSelect{
+  display: none;
+  margin-left: 100px;
+}
+#PlayerSelect2{
+  display: none;
+  margin-left: 240px;
+  margin-top: -20px;
+}
+img{
+	position: absolute;
+	width: 100px;
+	height: 200px;
+}
+#nin1, #nin2, #nin3, #nin4{
+	margin-left: -200px;
+	opacity: 0.0;
+}
+

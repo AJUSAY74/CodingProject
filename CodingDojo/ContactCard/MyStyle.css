@@ -1,0 +1,26 @@
+#contactHolder{
+	width: 750px;
+	height: 425px;
+	background-color: gray;
+}
+h1{
+	margin-top: 20px;
+	padding: 20px;
+}
+#forms{
+	margin-left: 20px;
+}
+#names{
+	margin-left: 20px;
+	margin-top: 10px;
+}
+#about{
+	margin-top: 40px;
+}
+#submitButton{
+	margin-left: 20px;
+}
+#info{
+	margin-left: 450px;
+	margin-top: -300px;
+}
