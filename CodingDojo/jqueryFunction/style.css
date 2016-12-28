@@ -1,0 +1,37 @@
+body{
+	width: 500px;
+	height: 1000px;
+}
+#placeHolder{
+	width: 500px;
+	height: 4000px;
+	background-color: #d1d3d6;
+	margin-left: 100px;
+	border: 2px solid black;
+}
+.inlineBlock{
+  display: inline-block;
+}
+.red{
+    color: red;
+}
+#AddClass, #SlideToggle, #Append, #Click, #Hide, #Show, #Toggle,
+#SlideDown, #SlideUp, #FadeIn, #FadeOut, #Before, #After, #HTML,
+#ATTR{
+  border-bottom: 2px solid black;
+}
+#toggleImg{
+  display: none;
+}
+.backgroundColor{
+  background-color: green;
+}
+.hide{
+  display: none;
+}
+#Show1{
+  display: none;
+}
+#sliderDown, #sliderDown2{
+  display: none;
+}

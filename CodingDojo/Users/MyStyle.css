@@ -1,0 +1,16 @@
+
+#line{
+  border-bottom: 2px solid black;
+  width: 400px;
+}
+form{
+  margin-top: 20px;
+  margin-bottom: -20px;
+}
+input{
+  margin-left: 140px;
+}
+button{
+  margin-left: 340px;
+  margin-top: 40px;
+}
