@@ -1,0 +1,9 @@
+body{
+	width: 1000px;
+	height: 1000px;
+}
+#placeholder{
+	width: 900px;
+	height: 800px;
+	background-color: #d5d9ca;
+}

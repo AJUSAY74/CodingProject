@@ -1,0 +1,27 @@
+label{ display: block; }
+button{margin: 10px;}
+.new {
+	  width: auto;
+	  max-height: 300px;
+	  margin: 5px;
+	  border: 1px solid black;
+	  padding: 15px;
+	  display: inline-block;
+	}
+#addUser, #about{
+		margin-left:5px;
+		min-height:80px;
+		min-width:150px;
+		height:auto;
+		padding:10px;
+		width:auto;
+		display: inline-block;
+}
+.form_data{ margin: 5px; }
+.aboutThis{
+		height: auto;
+		max-width:300px;
+		border: 1px solid black;
+		padding: 5px;
+		margin: 5px;
+}

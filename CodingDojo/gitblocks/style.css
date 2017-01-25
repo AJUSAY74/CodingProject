@@ -1,0 +1,67 @@
+body{
+	width: 1000px;
+	height: 1200px;
+}
+#placeholder{
+	width: 670px;
+	height: 650px;
+	background-color: #cbc89f;
+	padding: 10px;
+}
+#top{
+	width: 500px;
+	height: 100px;
+	padding: 5px;
+	margin-top: 10px;
+	margin-left: 25px;
+}
+#git1{
+	margin-left: 40px;
+}
+#maintitle{
+	margin-left: 150px;
+	margin-top: -55px;
+
+}
+#git2{
+	background-color: white;
+	margin-left: 430px;
+	margin-top: -80px;
+	width: 100px;
+}
+#theblocks{
+	width: 650px;
+	height: 600px;
+	padding: 10px;
+	margin-top: -20px;
+}
+#git3{
+	border: solid;
+	width: 100px;
+	padding: 10px;
+	background-color: #70a4ea;
+}
+#git4{
+	border: solid;
+	width: 100px;
+	padding: 10px;
+	background-color: #ee505e;
+}
+#git5{
+	border: solid;
+	width: 100px;
+	padding: 10px;
+	background-color: #70a4ea;;
+}
+#git6{
+	border: solid;
+	width: 100px;
+	padding: 10px;
+	background-color: #ee505e;
+}
+#git7{
+	border: solid;
+	width: 100px;
+	padding: 10px;
+	background-color: #70a4ea;
+}

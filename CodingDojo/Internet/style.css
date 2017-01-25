@@ -1,0 +1,158 @@
+body{
+	width: 1000px;
+	height: 1400px;
+	background-color: white;
+	font-family: 'Nunito Sans', sans-serif;
+}
+#top{
+	width: 1000px;
+	height: 100px;
+}
+#title{
+	color: black;
+}
+#maintitle{
+	margin-left: 100px;
+	margin-top: -60px;
+}
+#twww{
+	background-color: #2f6195;
+	color: white;
+	height: 60px;
+	margin-top: -40px;
+}
+#twwwt{
+	margin-left: 20px;
+	padding: 5px;
+}
+#maincontent{
+	background-color: #e9e9e9;
+	height: 870px;
+	width: 1000px;
+	margin-top: -20px;
+}
+#question1{
+	width: 200px;
+	height: 160px;
+}
+#button1{
+	border-radius: 6px;
+	background-color: #225893;
+	color: white;
+	font-size: 15px;
+	padding: 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#button2{
+	border-radius: 8px;
+	background-color: #e78625;
+	color: white;
+	font-size: 15px;
+	padding: 2px;
+	margin-bottom: 5px;
+}
+#breaker{
+	padding-bottom: 10px;
+}
+#adbkgd{
+	width: 200px;
+	height: 300px;
+	margin-top: 80px;
+}
+#reinvent{
+	color: white;
+	margin-top: -300px;
+	font-size: 25px;
+	text-align: center;
+}
+#ninja{
+	margin-left: 40px;
+}
+#button3{
+	margin-left: 50px;
+	border-radius: 8px;
+	background-color: #0fb7d7;
+	color: white;
+	font-size: 10px;
+	padding: 2px;
+	margin-bottom: 5px;
+}
+#about{
+	width: 730px;
+	height: 685px;
+	margin-left: 250px;
+	margin-top: -545px;
+	padding: 10px;
+}
+#dns{
+	margin-left: 30px;
+	margin-top: -20px;
+	color: blue;
+}
+#phone{
+	margin-left: 550px;
+	margin-top: -20px;
+}
+#hours1{
+	margin-left: 600px;
+	font-size: 10px;
+	margin-top: -45px;
+}
+#phonenumber{
+	color: #03b2d6;
+	margin-left: 600px;
+	font-size: 20px;
+	margin-top: -35px;
+}
+#international{
+	margin-left: 600px;
+	font-size: 9px;
+	margin-top: -20px;
+}
+#theline{
+	margin-top: -20px;
+	margin-bottom: 10px;
+}
+#cands{
+	color: #1b508d;
+	font-size: 14px;
+	margin-top: -15px;
+}
+#bulltedlist{
+	margin-left: 20px;
+	text-align: justify;
+}
+#clientserver{
+	margin-left: 240px;
+	margin-top: 20px;
+}
+#swah1{
+	color: #1b508d;
+	font-size: 18px;
+	margin-top: 15px;
+}
+#lastpart{
+	border-style: solid;
+	border-color: blue;
+	border-width: 5px;
+	width: 740px;
+	height: 200px;
+	margin-left: 250px;
+	margin-top: -40px;
+}
+#htmlcss{
+	margin-left: 15px;
+	margin-top: 20px;
+}
+#big3{
+	color: #1b508d;
+	font-size: 18px;
+	margin-left: 250px;
+	margin-top: -100px;
+}
+#lastinfo{
+	text-align: justify;
+	width: 450px;
+	margin-left: 250px;
+}
